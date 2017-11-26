@@ -1,0 +1,10 @@
+{
+    "connection_port":8888,
+
+    "DbConfig":{
+        "host": "localhost",
+        "user": "root",
+        "password": "",
+        "database": "datos"
+    }
+}
